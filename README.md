@@ -30,7 +30,33 @@ documented the full findings in a threat intelligence report.
 - [DomainTools WHOIS](https://whois.domaintools.com) — Domain ownership lookup
 
 ---
+### Project 2 — Network Traffic Analysis with Wireshark
+**Status:** Completed — June 2026  
+**File:** [network_traffic_analysis_report.pdf](./network_traffic_analysis_report.pdf)
 
+Built a two-machine virtual lab (Kali Linux + Ubuntu Server) and used Wireshark 
+to capture and analyze live network traffic. Captured ICMP, ARP, DHCP and TCP 
+traffic, ran an Nmap port scan, and analyzed 2,000+ packets to identify traffic 
+patterns that real SOC analysts look for daily.
+
+**Tools used:**  
+- [Wireshark](https://wireshark.org) — Network packet capture and analysis  
+- [Nmap](https://nmap.org) — Network and port scanner  
+- [VirtualBox](https://virtualbox.org) — Virtual machine platform  
+- Kali Linux + Ubuntu Server 24.04 — Lab environment
+
+---
+
+## Skills Demonstrated
+
+- Threat Intelligence Analysis
+- Phishing Detection & IOC Documentation
+- Network Packet Capture & Analysis
+- Port Scanning & Network Reconnaissance
+- Linux / Kali Linux
+- Wireshark | Nmap | VirusTotal | URLVoid | PhishTank | DomainTools
+
+---
 ## Connect With Me
 
 [LinkedIn](www.linkedin.com/in/chaithanya-thota-31b79a182).
